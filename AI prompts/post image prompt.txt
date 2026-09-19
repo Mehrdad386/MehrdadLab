@@ -1,0 +1,393 @@
+MASTER PROMPT — MEHRLAB ARTICLE FEATURE IMAGE GENERATOR
+
+You are an expert visual designer creating premium editorial illustrations for the Persian RTL personal website “MehrLab”.
+
+Your task is to generate ONE high-quality feature image for a website article.
+
+ARTICLE TITLE:
+[اینجا فقط عنوان مقاله را وارد کن]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BRAND IDENTITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The visual identity belongs to MehrLab, a modern Persian RTL personal brand focused on:
+
+• Computer Engineering
+• Programming
+• Web Development
+• WordPress
+• Software Engineering
+• Technology
+• Programming Education
+• Personal Projects
+• Developer Experiences
+• Tutorials and Technical Articles
+
+The website aesthetic is:
+
+• Modern
+• Minimal
+• Premium
+• Creative
+• Editorial
+• Friendly
+• Clean
+• Professional
+• Developer-oriented
+• Soft and visually calm
+
+The image must feel like it belongs naturally to the MehrLab website.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COLOR PALETTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use the following visual palette as the primary design language:
+
+Primary Blue:
+#4F8FD9
+
+Dark Blue:
+#326FAF
+
+Soft Pink:
+#F2A7C6
+
+Dark Navy:
+#172033
+
+Background:
+#F8FAFD
+
+White:
+#FFFFFF
+
+Secondary Gray:
+#6B7280
+
+Use blue as the dominant visual color.
+
+Use pink only as a subtle accent.
+
+Avoid excessive saturation.
+
+The overall result should feel soft, elegant and modern rather than colorful or childish.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a premium 3D editorial illustration with:
+
+• Soft 3D objects
+• Minimal geometric elements
+• Rounded forms
+• Subtle depth
+• Soft realistic lighting
+• Gentle shadows
+• Slight glassmorphism elements
+• Clean composition
+• Modern technology aesthetic
+• Soft blue ambient lighting
+• Small pastel pink accents
+• White/light background
+• Professional developer atmosphere
+
+The visual language should feel similar to a premium modern technology editorial illustration.
+
+Do NOT create a generic stock-photo look.
+
+Do NOT create a generic corporate illustration.
+
+Do NOT create a generic SaaS landing-page illustration.
+
+Do NOT make it look like a children's cartoon.
+
+Do NOT use an overly futuristic cyberpunk aesthetic.
+
+Do NOT use excessive neon.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTICLE INTERPRETATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Analyze the ARTICLE TITLE carefully.
+
+Determine the main concept, technology, subject and emotional context of the article.
+
+Then create a visual metaphor or scene that communicates the article topic immediately.
+
+Examples:
+
+If the article is about WordPress:
+→ create a modern workspace with a CMS/dashboard-inspired interface, browser window, website components, code elements or abstract WordPress-related visual objects.
+
+If the article is about Python:
+→ create a modern programming workspace with code-related objects, Python-inspired visual elements and a laptop/developer environment.
+
+If the article is about Artificial Intelligence:
+→ create an elegant AI-inspired scene with a neural-network concept, glowing nodes, abstract intelligence elements and a modern computer.
+
+If the article is about Web Development:
+→ create a browser window, code editor, website layout elements, responsive screens and development tools.
+
+If the article is about SEO:
+→ create search/interface elements, analytics charts, magnifying glass, ranking indicators and website-related objects.
+
+If the article is about Cyber Security:
+→ create a modern security concept using a lock, shield, laptop, network nodes and protected digital elements.
+
+If the article is about Learning Programming:
+→ create a friendly developer workspace with laptop, code editor, books/notebook and subtle educational elements.
+
+If the article is about a personal experience or project:
+→ create a visual scene representing the project, development process or experience described by the title.
+
+IMPORTANT:
+
+Do not blindly illustrate the literal words of the title.
+
+Instead, understand the subject and create a visually intelligent metaphor for it.
+
+The final image should communicate the topic even before the viewer reads the article.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMPOSITION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a clean horizontal composition suitable for a website article thumbnail.
+
+Aspect ratio:
+16:9
+
+Recommended composition:
+
+• Main visual subject slightly off-center
+• Plenty of negative space
+• Balanced visual weight
+• Clear focal point
+• Background elements kept subtle
+• No unnecessary objects
+• Strong visual hierarchy
+
+The composition must remain readable when displayed as a relatively small blog-card thumbnail.
+
+Avoid extremely detailed backgrounds.
+
+Avoid placing important visual elements directly against the edges.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHARACTER RULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If the article topic benefits from a human presence, you may include a stylized developer character.
+
+The character should be:
+
+• Modern
+• Friendly
+• Minimal
+• Slightly 3D / sticker-like
+• Professional
+• Natural
+
+Do NOT create a photorealistic person unless explicitly requested.
+
+Do NOT attempt to identify or reproduce a real person.
+
+Characters should support the concept rather than dominate the composition.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TECHNOLOGY VISUAL LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+When appropriate, use subtle elements such as:
+
+• Laptop
+• Monitor
+• Keyboard
+• Code editor
+• Browser windows
+• UI cards
+• Floating panels
+• Database symbols
+• Network nodes
+• Cloud elements
+• Charts
+• Digital documents
+• Abstract code blocks
+• Mobile screens
+• Website components
+• Developer tools
+
+These elements must remain visually clean and simplified.
+
+Never overload the image with technical symbols.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ABSOLUTELY NO TEXT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THIS IS EXTREMELY IMPORTANT.
+
+The generated image MUST contain ZERO TEXT.
+
+Do not include:
+
+• Article title
+• Words
+• Letters
+• Numbers
+• Code
+• Programming syntax
+• UI labels
+• Button labels
+• Headings
+• Captions
+• Logos
+• Brand names
+• Watermarks
+• Signatures
+• Fake text
+• Gibberish text
+• Lorem ipsum
+• English text
+• Persian text
+• Arabic text
+
+Even if the subject is programming, represent code visually using abstract lines/shapes instead of readable code.
+
+If a laptop, monitor, browser or UI appears in the image, its screen must contain abstract visual shapes or blurred interface elements with NO readable characters.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NO LOGO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT place the MehrLab logo inside the image.
+
+Do NOT place:
+
+“MehrLab”
+
+“MehrdadLab”
+
+or any other brand name anywhere in the artwork.
+
+The website itself will display the branding outside the image.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BACKGROUND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use a very light background based around:
+
+#F8FAFD
+
+with subtle blue/pink atmospheric gradients.
+
+Possible background treatment:
+
+• Soft blue glow
+• Very subtle pink glow
+• White surfaces
+• Abstract rounded shapes
+• Very light geometric elements
+• Soft shadows
+
+Keep the background clean.
+
+Do not create a busy scene.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LIGHTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use:
+
+• Soft studio lighting
+• Diffused light
+• Gentle blue ambient glow
+• Subtle highlights
+• Soft shadows
+• Premium 3D rendering
+
+Avoid:
+
+• Harsh shadows
+• Strong contrast
+• Neon lighting
+• Dark cyberpunk lighting
+• Overexposure
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUALITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Generate a high-quality professional website hero/thumbnail illustration.
+
+The image should look:
+
+Premium
+Clean
+Modern
+Sharp
+Polished
+Consistent
+Professional
+Editorial
+
+It must look suitable for a professional developer portfolio and educational website.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONSISTENCY RULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Every article image generated using this prompt must feel like part of the SAME visual system.
+
+Even when article topics are completely different, preserve:
+
+• Same color palette
+• Same lighting
+• Same 3D language
+• Same level of detail
+• Same background treatment
+• Same premium editorial aesthetic
+• Same visual softness
+• Same restrained pink accents
+
+Only the central subject and visual metaphor should change according to the article title.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FINAL NEGATIVE PROMPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NO TEXT.
+NO LETTERS.
+NO NUMBERS.
+NO WORDS.
+NO TYPOGRAPHY.
+NO LOGOS.
+NO WATERMARKS.
+NO SIGNATURES.
+NO READABLE CODE.
+NO UI TEXT.
+NO BUTTON TEXT.
+NO BRAND NAMES.
+NO GIBBERISH.
+NO LATIN CHARACTERS.
+NO PERSIAN CHARACTERS.
+NO ARABIC CHARACTERS.
+NO STOCK PHOTO STYLE.
+NO GENERIC CORPORATE ILLUSTRATION.
+NO CYBERPUNK.
+NO EXCESSIVE NEON.
+NO EXCESSIVE COLORS.
+NO CLUTTER.
+NO BUSY BACKGROUND.
+NO CHEAP 3D STYLE.
+NO CHILDISH CARTOON STYLE.
+
+Create ONE polished 16:9 editorial illustration based on the article title.
+
+The image must communicate the article topic visually while remaining completely text-free.
