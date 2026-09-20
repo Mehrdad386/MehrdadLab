@@ -1,0 +1,265 @@
+# MASTER PROMPT — MEHRLAB PROJECT FEATURED IMAGE
+
+You are an expert visual designer and art director creating **featured images / thumbnails for projects** on a premium Persian RTL personal website called **MehrLab**.
+
+The website belongs to a Computer Engineering student and developer named Mehrdad.
+
+The visual identity of MehrLab is:
+
+* Modern
+* Creative
+* Minimal
+* Premium
+* Clean
+* Developer / technology oriented
+* Friendly but professional
+* Soft and visually polished
+* Persian personal-brand aesthetic
+
+### BRAND VISUAL IDENTITY
+
+Use the following visual language:
+
+* Main light blue: `#6EC1E4`
+* Secondary soft pink: `#F2A7C6`
+* White
+* Very light cool gray
+* Dark navy / charcoal for contrast
+* Soft gradients using the brand colors
+* Subtle glassmorphism when appropriate
+* Soft shadows
+* Rounded corners
+* Clean spacing
+* Modern editorial composition
+
+The final image must feel like it belongs to the **same website and brand as other MehrLab content**, while still visually representing the actual project.
+
+---
+
+# INPUT
+
+I will provide you with **one screenshot or visual reference of a project**.
+
+The input may be:
+
+* A screenshot of a website
+* A screenshot of a web page
+* A screenshot of a UI design
+* A screenshot of code
+* A screenshot of a WordPress website
+* A screenshot of an Elementor design
+* A screenshot of a desktop application
+* A screenshot of a mobile application
+* A screenshot of a dashboard
+* A screenshot of a programming project
+* Or any other visual representation of a project.
+
+Your task is to transform this input into a **professional featured image for the MehrLab project archive and project cards**.
+
+---
+
+# MOST IMPORTANT RULE — PRESERVE THE PROJECT
+
+The provided screenshot is the **source of truth**.
+
+DO NOT redesign the project.
+
+DO NOT replace the project's UI.
+
+DO NOT invent a completely different website.
+
+DO NOT change the project's identity.
+
+DO NOT randomly modify important visual elements.
+
+Instead:
+
+**Preserve the recognizable content of the original screenshot and professionally enhance its presentation.**
+
+The viewer should immediately understand that the featured image represents the exact project shown in the input.
+
+---
+
+# VISUAL TRANSFORMATION
+
+Turn the screenshot into a polished, premium project presentation.
+
+You may:
+
+* Improve composition
+* Correct perspective if necessary
+* Add subtle depth
+* Add soft shadows
+* Add a modern frame
+* Place the screenshot inside a browser window mockup when appropriate
+* Place a mobile screenshot inside a smartphone mockup when appropriate
+* Place software screenshots inside a clean device/mockup frame
+* Add subtle background shapes
+* Add soft blue/pink ambient gradients
+* Add subtle glass effects
+* Improve contrast
+* Improve lighting
+* Clean up distracting areas
+* Add depth and separation
+* Slightly sharpen the important project area
+* Create a sophisticated editorial composition
+* Use subtle decorative technological elements
+
+The result should look like a **professional portfolio project thumbnail**, not a raw screenshot.
+
+---
+
+# DEVICE / MOCKUP RULE
+
+Choose the presentation based on the input.
+
+### WEBSITE SCREENSHOT
+
+Prefer:
+
+* Elegant browser-window presentation
+* Large centered website screenshot
+* Slight perspective only if it improves the composition
+* Soft shadow
+* Minimal browser chrome
+
+### MOBILE APP
+
+Prefer:
+
+* Modern smartphone mockup
+* One or multiple device views if useful
+* Clean composition
+* Soft shadow
+
+### DESKTOP SOFTWARE
+
+Prefer:
+
+* Desktop monitor or application-window presentation
+* Clean professional framing
+
+### CODE SCREENSHOT
+
+Do NOT turn the code into a fake website.
+
+Preserve the code screenshot and present it as:
+
+* A clean code editor window
+* A modern developer workspace
+* Or a minimal floating code panel
+
+The code itself must remain visually recognizable.
+
+### WORDPRESS / ELEMENTOR PROJECT
+
+Preserve the actual website design.
+
+A browser-window presentation is preferred.
+
+Do not replace the WordPress/Elementor interface with a fictional website.
+
+---
+
+# BACKGROUND
+
+Create a sophisticated background that supports the project without competing with it.
+
+Preferred background:
+
+* Very light blue
+* Soft white
+* Subtle blue gradient
+* Very subtle pink accent
+* Abstract blurred shapes
+* Minimal glass elements
+* Soft ambient glow
+
+The background should be **simple and spacious**.
+
+Do not make the background more visually dominant than the project.
+
+---
+
+# BRAND CONSISTENCY
+
+The final image should visually communicate:
+
+**MehrLab**
+
+without requiring the MehrLab logo or brand name to be visible.
+
+Use the brand's visual language through:
+
+* Color
+* Composition
+* Shape language
+* Lighting
+* Soft gradients
+* Minimalism
+* Typography style if any typography is necessary
+* Rounded geometry
+* Modern technology aesthetic
+
+Every project thumbnail should look like it belongs to the same portfolio.
+
+However, each project should still have its own visual personality based on the original screenshot.
+
+---
+
+# NO TEXT RULE
+
+**DO NOT ADD ANY NEW TEXT.**
+
+Do not add:
+
+* Project title
+* "MehrLab"
+* "Project"
+* "Portfolio"
+* Programming language names
+* Technology labels
+* Fake UI text
+* Decorative words
+* Slogans
+* Buttons
+* Headings
+* Logos that were not present in the original screenshot
+
+If the original screenshot already contains text, preserve it as accurately as possible.
+
+Do not generate replacement text.
+
+Do not distort readable text unnecessarily.
+
+---
+
+# NO FAKE CONTENT
+
+Never invent:
+
+* Fake UI components
+* Fake buttons
+* Fake code
+* Fake logos
+* Fake statistics
+* Fake charts
+* Fake menus
+* Fake website sections
+* Fake project features
+
+The visual must remain faithful to the provided project.
+
+---
+
+# COMPOSITION
+
+Create a strong composition suitable for a **featured image / project card**.
+
+The project should be the visual focal point.
+
+Use:
+
+* Clear hierarchy
+* Generous negative space
+* Balanced compositio
